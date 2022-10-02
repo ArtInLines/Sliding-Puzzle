@@ -1,6 +1,6 @@
 [submodule "c"]
 	path = c
-	url = ./c
+	url = https://github.com/ArtInLines/Sliding-Puzzle-in-C.git
 [submodule "rust"]
 	path = rust
-	url = ./rust
+	url = https://github.com/ArtInLines/Sliding-Puzzle-in-Rust.git
