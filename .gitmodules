@@ -1,0 +1,6 @@
+[submodule "c"]
+	path = c
+	url = ./c
+[submodule "rust"]
+	path = rust
+	url = ./rust
